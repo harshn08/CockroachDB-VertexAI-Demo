@@ -40,7 +40,7 @@ Banko AI is a conversational banking assistant that helps users analyze and unde
 ### Installation
 1. Clone the repository
    ```
-   git clone https://github.com/david7joy/banko-ai-assistant.git
+   git clone https://github.com/harshn08/CockroachDB-VertexAI-Demo.git
    ```
 
 2. Install dependencies
