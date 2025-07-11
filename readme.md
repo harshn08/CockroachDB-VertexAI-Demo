@@ -1,7 +1,7 @@
 # Banko Assistant App
 
 ## Overview
-Banko AI is a conversational banking assistant that helps users analyze and understand their financial data through natural language interactions. Built with Flask, it can use AWS Bedrock and Claude AI models or any other model, this application implements Retrieval Augmented Generation (RAG) to provide accurate, context-aware responses about personal expenses and financial information.
+Banko AI is a conversational banking assistant that helps users analyze and understand their financial data through natural language interactions. Built with Flask, it can use Google Vertex AI and Gemini AI models or any other model, this application implements Retrieval Augmented Generation (RAG) to provide accurate, context-aware responses about personal expenses and financial information.
 
 ## Features
 - **Natural Language Interface**: Query your expense data using everyday language
